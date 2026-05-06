@@ -35,8 +35,3 @@ java -cp src Main
 - Scoreboard.java — score display and player highlight
 - Square.java — board cell state wrapper
 - Player.java — player enum values
-
-## Notes
-
-The board resets after a win or draw.
-The reset button clears scores and starts with player X.
